@@ -1,2 +1,2 @@
-name: kannan1
+name: kannan
 age: 30
